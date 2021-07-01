@@ -56,3 +56,7 @@ function createParagraph() {
   document.body.appendChild(para);
 }
 <button onclick="createParagraph()">Click me!</button>
+
+#### Javascript Summary
+
+Overall, Javascript is good for HTML and CSS for coding and styling scripts to your liking. Also, along with different types of scripts that'll make javascript a great experience!
