@@ -14,7 +14,7 @@ The core client-side JavaScript language consists of some common programming fea
 ### Adding Javascript
 
 Internal, external, and inline javascript are different versions you can implement in Javascript.
-**-Inrernal:**
+**-Internal:**
 
 <script>
   
